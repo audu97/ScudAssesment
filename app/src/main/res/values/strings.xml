@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScudAssesment</string>
+    <string name="complete_String">NB: if you complete at least 80%, you will be paid the said
+        ammount for that day</string>
+</resources>
